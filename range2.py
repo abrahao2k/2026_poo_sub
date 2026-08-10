@@ -1,0 +1,8 @@
+# INICAR UMA SEQUENCIA NO NUMERO INDICADO
+# E TERMINAR NO NUMERO ANTERIOR AO
+# SEGUNDO VALOR INDICADO
+
+print(list(range(1,51))) # 1,2,3,...,48,49,50
+
+print(list(range(25,36))) # 25, 26... 33,34,35
+
