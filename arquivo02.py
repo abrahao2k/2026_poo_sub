@@ -1,4 +1,4 @@
-arquivo = open("segundo.txt","w")
+arquivo = open("segundo.txt","a")
 
 while True:
     texto = input("Digite o texto: ")
