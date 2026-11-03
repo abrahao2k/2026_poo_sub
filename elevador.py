@@ -18,3 +18,10 @@ eleva1.subir()
 eleva1.subir()
 eleva1.descer()
 eleva1.info()
+
+
+eleva2 = Elevador()  # criar objeto
+eleva2.andar = 10    # acesso direto à variável
+#eleva2.info()
+print("O elevador 2 está no andar", eleva2.andar)
+
